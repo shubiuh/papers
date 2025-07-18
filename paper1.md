@@ -168,4 +168,7 @@ The real lesson: **Before chasing the latest ML trends, check if classical metho
 - MOOSE framework documentation on Automatic Differentiation (2018+)
 - Various papers on adjoint methods and EnKF for inverse problems (1990s-2000s)
 
+## how it relates to LSFEM
+- For Maxwell equations, LSFEM is not good. Needs to find a variational form of the physical problem. Please refer Jin's book, Chapter 6.
+
 *This review aims to provide balanced perspective on the paper's contributions while highlighting limitations and historical context often missing from the ML-focused literature.*
