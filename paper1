@@ -1,0 +1,3 @@
+This paper is similar to FEM+AD which can use the Pytorch/tensorflow to build the training process more quickly than traditional solver. The examples which are all toy
+examples show good results. However, the last example which has partially observed data shows a long iteration numbers to get converged results. This method is not novel
+but just use FEM+AD to compare with PINN. The application in industry-size problem is not promising.
